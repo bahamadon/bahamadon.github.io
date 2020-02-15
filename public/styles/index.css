@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+
+@font-face {
+    font-family: Tahiti Sands;
+    font-weight: 400;
+    src: url(../fonts/TahitiSand.otf) format("woff");
+  }
+
+@tailwind utilities;
+
+
